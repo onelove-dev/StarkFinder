@@ -1,0 +1,1 @@
+Serve<impl std::future::Future<Output = Result<tokio::net::TcpListener, std::io::Error>>, Router, Router>
